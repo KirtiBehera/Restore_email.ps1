@@ -126,4 +126,3 @@ For any queries or support, feel free to contact:
 
 ---
 
-You can modify this template further based on specific details of your script and usage scenarios!
