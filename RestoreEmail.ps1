@@ -1,5 +1,10 @@
-#####Created by Kirti Ranjan Behera ##
-##Licence 1135634 ##
+<#
+=============================================================================================
+Name:           Restore Email
+Description:    This script restore mail and event generates reports after restore. 
+Scripted by:    Kirti R Behera
+============================================================================================
+#>
 
 param ([string]$Title = "Select opions to restore Emails from mailbox")
 Install-Module -Name ExchangeOnlineManagement -Force
